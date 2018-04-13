@@ -1,0 +1,7 @@
+c:\users\bburt\source\repos\CodeTherapy\Naming\bin\Debug\Naming.exe.config
+c:\users\bburt\source\repos\CodeTherapy\Naming\bin\Debug\Naming.exe
+c:\users\bburt\source\repos\CodeTherapy\Naming\bin\Debug\Naming.pdb
+c:\users\bburt\source\repos\CodeTherapy\Naming\obj\Debug\Naming.csprojResolveAssemblyReference.cache
+c:\users\bburt\source\repos\CodeTherapy\Naming\obj\Debug\Naming.csproj.CoreCompileInputs.cache
+c:\users\bburt\source\repos\CodeTherapy\Naming\obj\Debug\Naming.exe
+c:\users\bburt\source\repos\CodeTherapy\Naming\obj\Debug\Naming.pdb
